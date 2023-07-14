@@ -11,3 +11,6 @@ i = 0
 for x in s:
     print("the charchter at index",i,"and actualchar is" ,x)
     i+=1
+ #testing commit in remote
+ # tryting new things
+ 
